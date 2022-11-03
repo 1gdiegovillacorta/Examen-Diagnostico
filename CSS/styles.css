@@ -1,0 +1,105 @@
+/*CSS*/
+
+body {
+    background-color: black;
+    margin: 0%;
+    font-family: sans-serif;
+}
+
+.Title {
+    color: white;
+    margin-left: 100px;
+}
+
+.Navigation {
+    float: right;
+    margin-top: -65px;
+    margin-right: 50px;
+}
+
+.Navigation li {
+    float: left;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    list-style: none;
+}
+
+.Navigation li a {
+    text-decoration: none;
+    color: white;
+}
+
+footer {
+    background-color: white;
+    color: black;
+    bottom: 0%;
+    margin-bottom: 0%;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.Image-Wrapper {
+    text-align: center;
+}
+
+main {
+    background-color: white;
+    border-radius: 20px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+main .Image-Wrapper img {
+    width: 640px;
+    height: 360px;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.Card-Wrapper {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+    display: block;
+}
+
+article {
+    background-color: seagreen;
+    width: 200px;
+    height: 250px;
+    color: white;
+}
+
+.Content {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+}
+
+.Content-Title {
+    color: seagreen;
+}
+
+.Enlaces {
+    background-color: gray;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 20px;
+}
+
+.Enlaces article {
+    background-color: transparent;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+button {
+    padding: 5px;
+    background-color: seagreen;
+    border-radius: 50px;
+    border-color: transparent;
+    color: white;
+}
